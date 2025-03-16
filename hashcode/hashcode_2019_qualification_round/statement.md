@@ -1,4 +1,8 @@
-# hash code  Photo slideshow  Problem statement for the Online Qualification Round of Hash Code 2019
+# Hash Code  
+
+Photo slideshow  
+
+Problem statement for the Online Qualification Round of Hash Code 2019
 
 ## Introduction
 

@@ -1,4 +1,6 @@
-## Hash Code  by Google France
+## Hash Code  
+
+by Google France
 
 Problem statement for the Main Round, March 28th, 2015
 

@@ -1,4 +1,6 @@
-# hash code Book scanning
+# Hash Code 
+
+Book scanning
 
 Problem statement for the Online Qualification Round of Hash Code 2020
 

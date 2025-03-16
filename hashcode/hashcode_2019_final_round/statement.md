@@ -1,4 +1,4 @@
-# hash code
+# Hash Code
 
 Compiling Google
 
