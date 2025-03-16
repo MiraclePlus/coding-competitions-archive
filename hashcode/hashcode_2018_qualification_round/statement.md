@@ -190,4 +190,4 @@ Vehicle 1 handle two rides:
 
 The total score for this submission is $6 + 2 + 2 = {10}$ .
 
-Note that there are multiple data sets representing separate instances of the problem. The final score for your team will be the sum of your best scores on the individual data sets. Google
+Note that there are multiple data sets representing separate instances of the problem. The final score for your team will be the sum of your best scores on the individual data sets.

@@ -289,7 +289,3 @@ Drone 1:
 Drone 2 isn't used at all and there are no other orders.
 
 The score of the example submission is ${64} + {50} + {80} = {194}$ points.
-
----
-
-Google Google

@@ -151,7 +151,3 @@ The score of a solution is the total length of the streets which have been visit
 Each valid submission will be immediately scored and the score will be revealed to the team. The teams are allowed to submit multiple solutions - the highest scoring valid solution from each team will be used for team ranking.
 
 Teams will be ranked according to their best submission score. In an event of a tie (two teams having the same best submission score), the team that reached that score for the first time earlier will be ranked higher. Resubmitting the same best solution again does not hurt the teams ranking.
-
-© Google, 2014. All rights reserved.
-
-Pictures: Wikipedia (see links on images).

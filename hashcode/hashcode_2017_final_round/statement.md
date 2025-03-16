@@ -168,4 +168,4 @@ In the example above, the total number of target cells covered is 35 . The budge
 
 The score of the example submission is therefore ${1000} \times  {35} + \left( {{220} - 3 \times  1 - 2 \times  {100}}\right)$ which equals 35017.
 
-Note that there are multiple data sets representing separate instances of the problem. The final score for your team will be the sum of your best scores on the individual data sets. Google
+Note that there are multiple data sets representing separate instances of the problem. The final score for your team will be the sum of your best scores on the individual data sets.
