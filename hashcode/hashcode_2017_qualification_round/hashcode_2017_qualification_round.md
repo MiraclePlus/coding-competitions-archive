@@ -1,4 +1,4 @@
-# #Hash Code
+# Hash Code
 
 Streaming videos
 
